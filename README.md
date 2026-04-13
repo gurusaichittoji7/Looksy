@@ -1,6 +1,10 @@
 # Looksy 🔍
 An AI-powered search agent built with LangChain, Tavily, and Flask.
 
+## Live Demo
+👉 [https://looksy-ogu9.onrender.com](https://looksy-ogu9.onrender.com)
+
+
 ## What it does
 - Takes a user query as input
 - Uses Tavily API to search the live web
